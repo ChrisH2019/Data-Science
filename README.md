@@ -1,5 +1,6 @@
 Projects done along the learning path to Data Science @Codecademy.com:
-Data Analysis with Pandas
+
+I. Data Analysis with Pandas
 
     Learn the basics of Pandas, an industry standard Python library that provides tools for data manipulation and analysis.
 

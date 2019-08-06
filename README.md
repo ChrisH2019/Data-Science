@@ -6,3 +6,4 @@ I. Data Analysis with Pandas
 
     1. Petal Power Inventory
     2. A/B Testing for Shoefly.com
+    3. Page Visits Funnel

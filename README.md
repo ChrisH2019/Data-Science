@@ -7,3 +7,9 @@ I. Data Analysis with Pandas
     1. Petal Power Inventory
     2. A/B Testing for Shoefly.com
     3. Page Visits Funnel
+
+II. Data Visualization
+    
+    Insights mean nothing if you can’t present them and convince others that the findings are important. But how do we present data in Python?
+
+    1. Sublime Limes' Line Graphs

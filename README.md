@@ -12,5 +12,6 @@ II. Data Visualization
     
     Insights mean nothing if you can’t present them and convince others that the findings are important. But how do we present data in Python?
 
-    1. Sublime Limes' Line Graphs
-    2. Creates Graphs Using Matplotlib
+    4. Sublime Limes' Line Graphs
+    5. Creates Graphs Using Matplotlib
+    6. Visualizing World Cup Data with Seaborn

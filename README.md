@@ -17,4 +17,7 @@ II. Data Visualization
     6. Visualizing World Cup Data with Seaborn
 
 III. SQL Basics
+    
+    Learn the basics of SQL databases and write your first queries.
+
     7. SQL Basics

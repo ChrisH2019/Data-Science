@@ -15,3 +15,6 @@ II. Data Visualization
     4. Sublime Limes' Line Graphs
     5. Creates Graphs Using Matplotlib
     6. Visualizing World Cup Data with Seaborn
+
+III. SQL Basics
+    7. SQL Basics

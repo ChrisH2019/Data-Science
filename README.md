@@ -21,3 +21,9 @@ III. SQL Basics
     Learn the basics of SQL databases and write your first queries.
 
     7. SQL Basics
+
+IV. SQL Intermediate
+
+    Increase the number of tools in your SQL toolset by learning about aggregates and multiple tables.
+
+    8. SQL Intermediate

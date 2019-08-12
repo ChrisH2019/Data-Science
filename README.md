@@ -27,3 +27,9 @@ IV. SQL Intermediate
     Increase the number of tools in your SQL toolset by learning about aggregates and multiple tables.
 
     8. SQL Intermediate
+
+V. Analyze Real Data with SQL
+
+    Combine everything that you learned to solve real business problems.
+
+    9. Analyze Real Data with SQL 

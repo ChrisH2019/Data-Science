@@ -32,4 +32,15 @@ V. Analyze Real Data with SQL
 
     Combine everything that you learned to solve real business problems.
 
-    9. Analyze Real Data with SQL 
+    9. Analyze Real Data with SQL
+
+VI. Learn Statistics with Python
+    
+    Learn how to calculate and interpret several descriptive statistics using the Python library NumPy.
+
+    10. Central Tendency for Housing Data
+    11. Variance in Weather
+    12. Traveling to Acadia
+    13. Describe Exam Grade Distributions
+    14. Life Expectancy by Country
+    15. Healthcare in Different States

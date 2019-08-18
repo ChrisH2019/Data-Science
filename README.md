@@ -44,3 +44,9 @@ VI. Learn Statistics with Python
     13. Describe Exam Grade Distributions
     14. Life Expectancy by Country
     15. Healthcare in Different States
+
+VII. Practical Data Cleaning
+
+    Pull and clean data from the web with this Python based course.
+
+    16. Cleaning US Census Data

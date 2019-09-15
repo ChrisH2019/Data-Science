@@ -1,4 +1,4 @@
-A list of projects done along the learning path to Data Science @Codecademy.com:
+A list of projects done along the way to Data Science Path @ Codecademy.com:
 
 I. Data Analysis with Pandas
 

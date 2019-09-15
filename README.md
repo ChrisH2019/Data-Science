@@ -55,4 +55,10 @@ VII. Machine Learning Supervised Learning
 
     Discover how to use supervised learning techniques, in which algorithms learn from many examples of past outcomes.
     
-    17. Classification
+    17. Breast Cancer Classifier
+
+VIII. Machine Learning: Unsupervised Learning
+    
+    Learn about how to perform learning on a dataset when we don’t have any of the answers to begin with. How do we look for inherent structure?
+
+    18. Handwriting Recognition using K-Means

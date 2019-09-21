@@ -56,6 +56,7 @@ VII. Machine Learning Supervised Learning
     Discover how to use supervised learning techniques, in which algorithms learn from many examples of past outcomes.
     
     17. Breast Cancer Classifier
+    19. Predict Future Production of Honey
 
 VIII. Machine Learning: Unsupervised Learning
     

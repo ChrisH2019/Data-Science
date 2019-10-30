@@ -58,6 +58,7 @@ VII. Machine Learning Supervised Learning
     17. Breast Cancer Classifier (Classification)
     19. Predict Future Production of Honey (Linear Regression)
     20. Predict Titanic Survival (Logistic Regression)
+    21. Categorizing Emails (Naive Bayes)
 
 VIII. Machine Learning: Unsupervised Learning
     
